@@ -1,0 +1,420 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38B2128A-8205-4279-9450-F9D0D0E6C610}|Console\\Console.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\console\\console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38B2128A-8205-4279-9450-F9D0D0E6C610}|Console\\Console.csproj|solutionrelative:console\\console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\businesslogic\\macroscal\\services\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\macroscal\\services\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B181E506-F183-4ED8-A795-A7DB0BFF713A}|VFIT\\VFIT.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\vfit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B181E506-F183-4ED8-A795-A7DB0BFF713A}|VFIT\\VFIT.csproj|solutionrelative:vfit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B181E506-F183-4ED8-A795-A7DB0BFF713A}|VFIT\\VFIT.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\vfit\\controllers\\vfitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B181E506-F183-4ED8-A795-A7DB0BFF713A}|VFIT\\VFIT.csproj|solutionrelative:vfit\\controllers\\vfitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\businesslogic\\macroscal\\models\\foodmacroquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\macroscal\\models\\foodmacroquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\businesslogic\\macroscal\\models\\foodmacrodetailsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\macroscal\\models\\foodmacrodetailsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\businesslogic\\macroscal\\models\\foodmacrodetailsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\macroscal\\models\\foodmacrodetailsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB19D0F6-F011-45F2-8EFD-5E76A1F7C74B}|DataAccess\\DataAccess.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\dataaccess\\fooddata\\models\\foodcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB19D0F6-F011-45F2-8EFD-5E76A1F7C74B}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\fooddata\\models\\foodcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB19D0F6-F011-45F2-8EFD-5E76A1F7C74B}|DataAccess\\DataAccess.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\dataaccess\\fooddata\\foodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB19D0F6-F011-45F2-8EFD-5E76A1F7C74B}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\fooddata\\foodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B181E506-F183-4ED8-A795-A7DB0BFF713A}|VFIT\\VFIT.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\vfit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B181E506-F183-4ED8-A795-A7DB0BFF713A}|VFIT\\VFIT.csproj|solutionrelative:vfit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB19D0F6-F011-45F2-8EFD-5E76A1F7C74B}|DataAccess\\DataAccess.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\dataaccess\\migrations\\20240701162808_addingtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB19D0F6-F011-45F2-8EFD-5E76A1F7C74B}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20240701162808_addingtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\businesslogic\\macroscal\\interfaces\\ifoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\macroscal\\interfaces\\ifoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\businesslogic\\macroscal\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\macroscal\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\businesslogic\\macroscal\\interfaces\\ifoodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\macroscal\\interfaces\\ifoodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\businesslogic\\macroscal\\models\\foodmacro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\macroscal\\models\\foodmacro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\businesslogic\\macroscal\\models\\foodmacrorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\macroscal\\models\\foodmacrorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\businesslogic\\macroscal\\models\\foodmacroresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\macroscal\\models\\foodmacroresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\businesslogic\\macroscal\\services\\fooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\macroscal\\services\\fooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\businesslogic\\macroscal\\models\\foodinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\macroscal\\models\\foodinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB19D0F6-F011-45F2-8EFD-5E76A1F7C74B}|DataAccess\\DataAccess.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\dataaccess\\migrations\\20240702132550_addedfooditemtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB19D0F6-F011-45F2-8EFD-5E76A1F7C74B}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20240702132550_addedfooditemtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\businesslogic\\macroscal\\interfaces\\ifooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\macroscal\\interfaces\\ifooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\businesslogic\\macroscal\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\macroscal\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\businesslogic\\macroscal\\interfaces\\ifooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E292AFA-3364-4DE4-961D-F52DE9442D26}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\macroscal\\interfaces\\ifooditemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB19D0F6-F011-45F2-8EFD-5E76A1F7C74B}|DataAccess\\DataAccess.csproj|c:\\users\\vijay\\source\\repos\\vfit\\vfit\\dataaccess\\fooddata\\fooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB19D0F6-F011-45F2-8EFD-5E76A1F7C74B}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\fooddata\\fooditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\VFIT\\Program.cs",
+              "RelativeDocumentMoniker": "VFIT\\Program.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\VFIT\\Program.cs",
+              "RelativeToolTip": "VFIT\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwBsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:50:01.07Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vfitController.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\VFIT\\Controllers\\vfitController.cs",
+              "RelativeDocumentMoniker": "VFIT\\Controllers\\vfitController.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\VFIT\\Controllers\\vfitController.cs",
+              "RelativeToolTip": "VFIT\\Controllers\\vfitController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAnwJkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:52:22.229Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FoodService.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Services\\FoodService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\MacrosCal\\Services\\FoodService.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Services\\FoodService.cs",
+              "RelativeToolTip": "BusinessLogic\\MacrosCal\\Services\\FoodService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAADgvzMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T10:06:59.375Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoodContext.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\DataAccess\\FoodData\\Models\\FoodContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\FoodData\\Models\\FoodContext.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\DataAccess\\FoodData\\Models\\FoodContext.cs",
+              "RelativeToolTip": "DataAccess\\FoodData\\Models\\FoodContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvywAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:45:36.619Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IFoodService.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Interfaces\\IFoodService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\MacrosCal\\Interfaces\\IFoodService.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Interfaces\\IFoodService.cs",
+              "RelativeToolTip": "BusinessLogic\\MacrosCal\\Interfaces\\IFoodService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvw0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:39:12.54Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\MacrosCal\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Models\\Food.cs",
+              "RelativeToolTip": "BusinessLogic\\MacrosCal\\Models\\Food.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:52:21.175Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FoodMacro.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Models\\FoodMacro.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\MacrosCal\\Models\\FoodMacro.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Models\\FoodMacro.cs",
+              "RelativeToolTip": "BusinessLogic\\MacrosCal\\Models\\FoodMacro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:52:38.066Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FoodMacroQuantity.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Models\\FoodMacroQuantity.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\MacrosCal\\Models\\FoodMacroQuantity.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Models\\FoodMacroQuantity.cs",
+              "RelativeToolTip": "BusinessLogic\\MacrosCal\\Models\\FoodMacroQuantity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:59:10.905Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FoodMacroDetailsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Models\\FoodMacroDetailsResponse.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\MacrosCal\\Models\\FoodMacroDetailsResponse.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Models\\FoodMacroDetailsResponse.cs",
+              "RelativeToolTip": "BusinessLogic\\MacrosCal\\Models\\FoodMacroDetailsResponse.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:59:27.191Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FoodMacroDetailsRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Models\\FoodMacroDetailsRequest.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\MacrosCal\\Models\\FoodMacroDetailsRequest.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Models\\FoodMacroDetailsRequest.cs",
+              "RelativeToolTip": "BusinessLogic\\MacrosCal\\Models\\FoodMacroDetailsRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:53:22.968Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FoodMacroResponse.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Models\\FoodMacroResponse.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\MacrosCal\\Models\\FoodMacroResponse.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Models\\FoodMacroResponse.cs",
+              "RelativeToolTip": "BusinessLogic\\MacrosCal\\Models\\FoodMacroResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:53:10.075Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FoodMacroRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Models\\FoodMacroRequest.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\MacrosCal\\Models\\FoodMacroRequest.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Models\\FoodMacroRequest.cs",
+              "RelativeToolTip": "BusinessLogic\\MacrosCal\\Models\\FoodMacroRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T14:52:54.778Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\VFIT\\appsettings.json",
+              "RelativeDocumentMoniker": "VFIT\\appsettings.json",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\VFIT\\appsettings.json",
+              "RelativeToolTip": "VFIT\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T15:59:43.124Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FoodItemService.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Services\\FoodItemService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\MacrosCal\\Services\\FoodItemService.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Services\\FoodItemService.cs",
+              "RelativeToolTip": "BusinessLogic\\MacrosCal\\Services\\FoodItemService.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAvwFsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:47:38.625Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Console",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\Console\\Console.csproj",
+              "RelativeDocumentMoniker": "Console\\Console.csproj",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\Console\\Console.csproj",
+              "RelativeToolTip": "Console\\Console.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-15T11:28:15.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FoodInput.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Models\\FoodInput.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\MacrosCal\\Models\\FoodInput.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Models\\FoodInput.cs",
+              "RelativeToolTip": "BusinessLogic\\MacrosCal\\Models\\FoodInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:52:31.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240702132550_AddedFoodItemTable.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\DataAccess\\Migrations\\20240702132550_AddedFoodItemTable.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240702132550_AddedFoodItemTable.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\DataAccess\\Migrations\\20240702132550_AddedFoodItemTable.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240702132550_AddedFoodItemTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:25:51.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IFoodItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Interfaces\\IFoodItemRepository.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\MacrosCal\\Interfaces\\IFoodItemRepository.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Interfaces\\IFoodItemRepository.cs",
+              "RelativeToolTip": "BusinessLogic\\MacrosCal\\Interfaces\\IFoodItemRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:04:29.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Models\\FoodItem.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\MacrosCal\\Models\\FoodItem.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Models\\FoodItem.cs",
+              "RelativeToolTip": "BusinessLogic\\MacrosCal\\Models\\FoodItem.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA9wBAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:46:32.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IFoodItemService.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Interfaces\\IFoodItemService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\MacrosCal\\Interfaces\\IFoodItemService.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Interfaces\\IFoodItemService.cs",
+              "RelativeToolTip": "BusinessLogic\\MacrosCal\\Interfaces\\IFoodItemService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAApwBAAAACVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:45:27.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FoodItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\DataAccess\\FoodData\\FoodItemRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\FoodData\\FoodItemRepository.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\DataAccess\\FoodData\\FoodItemRepository.cs",
+              "RelativeToolTip": "DataAccess\\FoodData\\FoodItemRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAewB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:57:31.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FoodRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\DataAccess\\FoodData\\FoodRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\FoodData\\FoodRepository.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\DataAccess\\FoodData\\FoodRepository.cs",
+              "RelativeToolTip": "DataAccess\\FoodData\\FoodRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:58:12.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240701162808_AddingTables.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\DataAccess\\Migrations\\20240701162808_AddingTables.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240701162808_AddingTables.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\DataAccess\\Migrations\\20240701162808_AddingTables.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240701162808_AddingTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:28:16.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFoodRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Interfaces\\IFoodRepository.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\MacrosCal\\Interfaces\\IFoodRepository.cs",
+              "ToolTip": "C:\\Users\\vijay\\source\\repos\\VFIT\\VFIT\\BusinessLogic\\MacrosCal\\Interfaces\\IFoodRepository.cs",
+              "RelativeToolTip": "BusinessLogic\\MacrosCal\\Interfaces\\IFoodRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:35:35.287Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

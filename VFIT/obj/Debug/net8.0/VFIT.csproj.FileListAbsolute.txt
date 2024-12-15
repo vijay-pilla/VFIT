@@ -1,0 +1,7 @@
+C:\Users\vijay\source\repos\VFIT\VFIT\obj\Debug\net8.0\VFIT.csproj.AssemblyReference.cache
+C:\Users\vijay\source\repos\VFIT\VFIT\obj\Debug\net8.0\VFIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijay\source\repos\VFIT\VFIT\obj\Debug\net8.0\VFIT.AssemblyInfoInputs.cache
+C:\Users\vijay\source\repos\VFIT\VFIT\obj\Debug\net8.0\VFIT.AssemblyInfo.cs
+C:\Users\vijay\source\repos\VFIT\VFIT\obj\Debug\net8.0\VFIT.csproj.CoreCompileInputs.cache
+C:\Users\vijay\source\repos\VFIT\VFIT\obj\Debug\net8.0\VFIT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vijay\source\repos\VFIT\VFIT\obj\Debug\net8.0\VFIT.MvcApplicationPartsAssemblyInfo.cache

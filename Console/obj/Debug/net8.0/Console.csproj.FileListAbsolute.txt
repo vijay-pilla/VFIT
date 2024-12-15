@@ -1,0 +1,4 @@
+C:\Users\vijay\source\repos\VFIT\Console\obj\Debug\net8.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijay\source\repos\VFIT\Console\obj\Debug\net8.0\Console.AssemblyInfoInputs.cache
+C:\Users\vijay\source\repos\VFIT\Console\obj\Debug\net8.0\Console.AssemblyInfo.cs
+C:\Users\vijay\source\repos\VFIT\Console\obj\Debug\net8.0\Console.csproj.CoreCompileInputs.cache
