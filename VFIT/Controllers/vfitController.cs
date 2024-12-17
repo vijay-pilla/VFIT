@@ -26,11 +26,11 @@ namespace VFIT.Controllers
         //    return await _foodService.GetFoodMacrosAsync();
         //}
 
-        [HttpGet("details")]
-        public async Task<ActionResult<FoodMacroDetailsResponse>> GetFoodMacroDetailsAsync(FoodMacroDetailsRequest request)
-        {
-            return await _foodService.GetFoodMacroDetailsAsync(request);
-        }
+        //[HttpGet("details")]
+        //public async Task<ActionResult<FoodMacroDetailsResponse>> GetFoodMacroDetailsAsync(FoodMacroDetailsRequest request)
+        //{
+        //    return await _foodService.GetFoodMacroDetailsAsync(request);
+        //}
 
         //[HttpPost]
         //public async Task<ActionResult<Food>> AddFoodAsync(Food food)
@@ -39,19 +39,19 @@ namespace VFIT.Controllers
         //    return CreatedAtAction(nameof(GetFoodMacrosAsync), new { name = food.Name }, food);
         //}
 
-        [HttpPut("{name1}")]
-        public async Task<ActionResult> UpdateFoodAsync(string name1, Food food)
-        {
-            await _foodService.UpdateFoodAsync(name1, food);
-            return NoContent();
-        }
+        //[HttpPut("{name1}")]
+        //public async Task<ActionResult> UpdateFoodAsync(string name1, Food food)
+        //{
+         //   await _foodService.UpdateFoodAsync(name1, food);
+         //   return NoContent();
+        //}
 
-        [HttpDelete("{name1}")]
-        public async Task<ActionResult> DeleteFoodAsync(string name1)
-        {
-            await _foodService.DeleteFoodAsync(name1);
-            return NoContent();
-        }
+        //[HttpDelete("{name1}")]
+        //public async Task<ActionResult> DeleteFoodAsync(string name1)
+        //{
+         //   await _foodService.DeleteFoodAsync(name1);
+         //   return NoContent();
+        //}
 
         [HttpGet]
         public async Task<ActionResult<IEnumerable<FoodItem>>> GetFoodItems()
